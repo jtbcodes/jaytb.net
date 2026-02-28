@@ -1,0 +1,25 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>{{ title | default: "JayTB" }}</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <link rel="stylesheet" href="/css/styles.css">
+</head>
+<body>
+
+<header>
+  {{ title }}
+</header>
+
+<main>
+  {{ content }}
+</main>
+
+<footer>
+  <p>© {{ "now" | date: "%Y" }}</p>
+</footer>
+
+</body>
+</html>
