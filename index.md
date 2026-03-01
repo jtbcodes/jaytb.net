@@ -2,13 +2,10 @@
 layout: base.html
 title: Jaytb
 ---
-[Test](posts/test)
 
 
+# My blog
 
-# hello
-## hi
-### test
-#### h4 123
-##### h5 1
-###### h6 12
+* [Test](posts/test)
+
+
