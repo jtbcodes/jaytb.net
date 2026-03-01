@@ -2,8 +2,7 @@
 layout: base.html
 title: Jaytb
 ---
-
-[About Page](posts/test)
+[Test](posts/test)
 
 
 

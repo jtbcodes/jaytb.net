@@ -1,11 +1,11 @@
 body {
   font-family: system-ui, sans-serif;
-  max-width: 600px;
+  max-width: 630px;
   margin: 40px auto;
   line-height: 1.6;
   padding: 0 16px;
   color: #d8d8d8;
-  background-color: #131316;
+  background-color: #14141e;
 }
 
 header {
@@ -19,12 +19,13 @@ header {
 }
 
 a {
-  color: #0b63ce;
+  color: #961eff;
   text-decoration: none;
 }
 
 a:hover {
-  text-decoration: underline;
+  /* text-decoration: underline; */
+  color: #5e13c6;
 }
 
 pre {
@@ -32,3 +33,12 @@ pre {
   padding: 12px;
   overflow-x: auto;
 }
+
+footer {
+  margin-top: 75px;
+}
+
+hr {
+  margin: 10px 0;
+}
+
