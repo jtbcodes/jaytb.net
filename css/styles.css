@@ -1,16 +1,21 @@
 body {
   font-family: system-ui, sans-serif;
-  max-width: 720px;
+  max-width: 600px;
   margin: 40px auto;
   line-height: 1.6;
   padding: 0 16px;
-  color: #222;
+  color: #d8d8d8;
+  background-color: #131316;
 }
 
 header {
   margin-bottom: 2rem;
-  font-size: 60px;
+  font-size: 50px;
   font-weight: bold;
+  text-align: center;
+  line-height: 1.2;      /* tighter vertical spacing */
+  letter-spacing: 0.5px; /* reduce wide gaps */
+  word-break: break-word;
 }
 
 a {

@@ -1,7 +1,11 @@
 ---
 layout: base.html
-title: Jaytb.net
+title: Jaytb
 ---
+
+[About Page](posts/test)
+
+
 
 # hello
 ## hi
